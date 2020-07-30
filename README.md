@@ -2,7 +2,7 @@
 
 _SuperHero App_
 
-## Build with 🛠️
+## Built with 🛠️
 
 - React with Redux
 - SuperHero API
