@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const CORS = "https://cors-anywhere.herokuapp.com/";
+const CORS = "https://api.allorigins.win/raw?url=";
 
 const KEY = "10158399473217305";
 
